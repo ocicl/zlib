@@ -1,0 +1,11 @@
+* zlib
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/sharplispers/zlib.git
+https://gitlab.common-lisp.net/zlib/zlib.git   |
+| commit  |   |
+| systems | zlib |
+|---------+-------------------------------------------|
+
