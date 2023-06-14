@@ -1,11 +1,9 @@
 * zlib
 
+It's a Common Lisp zlib implementation (i.e. it's not using FFI).
 
-
-|---------+-------------------------------------------|
-| source  | git:https://github.com/sharplispers/zlib.git
-https://gitlab.common-lisp.net/zlib/zlib.git   |
-| commit  |   |
-| systems | zlib |
-|---------+-------------------------------------------|
-
+|---------+----------------------------------------------|
+| source  | git:https://github.com/sharplispers/zlib.git |
+| commit  | 7e89e71                                      |
+| systems | zlib                                         |
+|---------+----------------------------------------------|
